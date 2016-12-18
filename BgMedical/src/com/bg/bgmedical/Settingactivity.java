@@ -22,6 +22,7 @@ public class Settingactivity extends BaseActivity {
 	private LinearLayout show;
 	private String str = "standard";
 
+	
 	private RadioButton who;
 	private RadioButton nine_city;
 	private SharedPreferences share;
